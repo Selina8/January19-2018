@@ -11,6 +11,7 @@ namespace SESelinaTask2
         static void Main(string[] args)
         {
             //So far you have only worked with main branch
+            //Something more
         }
     }
 }
