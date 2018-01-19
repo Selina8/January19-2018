@@ -13,6 +13,7 @@ namespace SESelinaTask2
             //So far you have only worked with main branch
             //Something more
             //Code to call Feature 1
+            //Code to call Feature 2
         }
     }
 }
